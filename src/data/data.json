@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lapicera Fina",
+    "description": "Lapicera trazo Fino",
+    "price": 20,
+    "thumbnail": "lapicera003.jpg",
+    "code": "lap125",
+    "stock": 10,
+    "status": true,
+    "category": 1,
+    "id": 2
+  },
+  {
+    "title": "Lapicera Indeleble",
+    "description": "Lapicera indeleble",
+    "price": 40,
+    "thumbnail": "lapicera004.jpg",
+    "code": "lap126",
+    "stock": 10,
+    "status": true,
+    "category": 1,
+    "id": 3
+  },
+  {
+    "title": "Lapicera Gel",
+    "description": "Lapicera de Gel",
+    "price": 10,
+    "thumbnail": "lapicera005.jpg",
+    "code": "lap127",
+    "stock": 10,
+    "status": true,
+    "category": 1,
+    "id": 4
+  },
+  {
+    "title": "Lapicera Tinta China",
+    "description": "Lapicera con tinta china",
+    "price": 100,
+    "thumbnail": "lapicera006.jpg",
+    "code": "lap128",
+    "stock": 10,
+    "status": true,
+    "category": 1,
+    "id": 5
+  }
+]
